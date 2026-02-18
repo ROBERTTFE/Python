@@ -32,7 +32,7 @@ not -> NO
 
 
 # print("\n**************** Ejemplo 2 *****************")
-# # year = 2026
+# year = 2026
 # year = int(input("¿En qué año Estamos? "))
 
 # if year >= 2026:
@@ -111,15 +111,15 @@ not -> NO
 #    print("No estas en edad de trabajar")
    
    
-print("\n**************** Ejemplo 6 ------------------")
-pais = input("Dime un pais de habla hispana: ")
+# print("\n**************** Ejemplo 6 ------------------")
+# pais = input("Dime un pais de habla hispana: ")
 
-if pais == "Mexico" or pais == "España" or pais == "Colombia":
-    print(f"{pais} es un pais de habla hispana!!!")
-else:
-    print(f"{pais} no es un pais de habla hispana :( ")
-#################################################################
-if pais == "Mexico" and pais == "España" and pais == "Colombia":
-    print(f"{pais} No es un pais de habla hispana!!!")
-else:
-    print(f"{pais} Si es un pais de habla hispana :( ")
+# if pais == "Mexico" or pais == "España" or pais == "Colombia":
+#     print(f"{pais} es un pais de habla hispana!!!")
+# else:
+#     print(f"{pais} no es un pais de habla hispana :( ")
+# #################################################################
+# if pais == "Mexico" and pais == "España" and pais == "Colombia":
+#     print(f"{pais} No es un pais de habla hispana!!!")
+# else:
+#     print(f"{pais} Si es un pais de habla hispana :( ")
