@@ -118,3 +118,8 @@ if pais == "Mexico" or pais == "España" or pais == "Colombia":
     print(f"{pais} es un pais de habla hispana!!!")
 else:
     print(f"{pais} no es un pais de habla hispana :( ")
+#################################################################
+if pais == "Mexico" and pais == "España" and pais == "Colombia":
+    print(f"{pais} No es un pais de habla hispana!!!")
+else:
+    print(f"{pais} Si es un pais de habla hispana :( ")
