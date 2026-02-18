@@ -97,7 +97,7 @@ not -> NO
 
 
 #Ejemplo 5
-print("\n**************** Ejemplo 5 *****************")
+print("\n**************** Ejemplo 5 +++++++++++++++++++")
 
 edad_minima = 18
 edad_maxima = 65
