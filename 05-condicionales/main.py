@@ -97,19 +97,24 @@ not -> NO
 
 
 #Ejemplo 5
-print("\n**************** Ejemplo 5 +++++++++++++++++++")
+# print("\n**************** Ejemplo 5 +++++++++++++++++++")
 
-edad_minima = 18
-edad_maxima = 65
-valor = input("Tienes edad para trabajar? Ingresa tu edad: ")
-edad_oficial = int(valor)
-print(type(edad_oficial))
+# edad_minima = 18
+# edad_maxima = 65
+# valor = input("Tienes edad para trabajar? Ingresa tu edad: ")
+# edad_oficial = int(valor)
+# print(type(edad_oficial))
 
-if edad_oficial >= edad_minima and edad_oficial <= edad_maxima:
-   print("Estas en edad de trabajar")
-else:
-   print("No estas en edad de trabajar")
+# if edad_oficial >= edad_minima and edad_oficial <= edad_maxima:
+#    print("Estas en edad de trabajar")
+# else:
+#    print("No estas en edad de trabajar")
    
    
 print("\n**************** Ejemplo 6 ------------------")
+pais = input("Dime un pais de habla hispana: ")
 
+if pais == "Mexico" or pais == "España" or pais == "Colombia":
+    print(f"{pais} es un pais de habla hispana!!!")
+else:
+    print(f"{pais} no es un pais de habla hispana :( ")
