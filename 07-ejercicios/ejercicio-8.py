@@ -1,4 +1,8 @@
+"""  
+8. ¿Cuánto es el X por ciento de X número?
+                ej. 20% de 150
 """
-8. ¿Cuánto es el x por ciento de x número?
-
-"""
+porcentaje = float(input("Ingrese el porcentaje: "))
+numero = float(input("Ingrese el número: "))
+resultado = (porcentaje / 100) * numero
+print(f"{porcentaje}% de {numero} es: {resultado}")

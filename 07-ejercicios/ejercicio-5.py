@@ -3,7 +3,7 @@ Ejercicio 5.
     - Hacer un programa que muestre todos los números entre dos números que diga el usuario
 """
 
-# print("\n**************** Ejercicio 4 *****************")
+# print("\n**************** Ejercicio 5 *****************")
 
 num1 = int(input("Ingrese el primer número: "))
 num2 = int(input("Ingrese el segundo número: "))
