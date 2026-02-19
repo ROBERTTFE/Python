@@ -2,6 +2,9 @@
 10. Escribe un programa que pida la nota de 8 alumnos y sacar por pantalla 
 cuantos han aprobado y cuantos han suspendido.
 """
+
+# print("\n**************** Ejercicio 10 *****************")
+
 aprobados = 0
 suspendidos = 0
 for i in range(8):
@@ -12,3 +15,7 @@ for i in range(8):
         suspendidos += 1
 print(f"Cantidad de alumnos aprobados: {aprobados}")
 print(f"Cantidad de alumnos suspendidos: {suspendidos}")
+
+# print("\n**************** Ejercicio 10 *****************")
+
+
