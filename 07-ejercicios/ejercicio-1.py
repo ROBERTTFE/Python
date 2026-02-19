@@ -5,6 +5,12 @@ Ejercicio 1.
     - Poner un comentario diciendo el tipo de dato
 """
 
+pais = "España"  # string
+continente = "Europeo"  # string
+year = 2026  # integer
+
+print(f"{pais} se encuentra en el continente {continente} para el año {year}")
+
 # print("\n**************** Ejercicio 1 *****************")
 
 pais = "España" # String
